@@ -68,18 +68,21 @@ text-align: center;
 /* About */
 .About-Section{
 
-    height: 100vh;
     padding: 30px 50px;
+    
 
 }
 
 .About-Container{
 padding: 30px 50px;
-
+display: flex;
+justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
 
 }
 .About-Img{ 
-    float: left;
+
     width: 30%;
 }
 .About-Img img{
@@ -87,7 +90,6 @@ padding: 30px 50px;
 }
 .About-Text{
     width: 60%;
-    float: right;
 }
 
 .About-Text h2{
@@ -110,16 +112,37 @@ padding: 30px 50px;
 .About-Text p{
     color: #7E7E7E;
     font-size: 18px;
-    font-weight: 600;
     padding: 7px 7px 20px;
-    width: 75%;
     border-bottom: 1px dashed #7E7E7E;
-    
 }
 
 .clear-fix{
     clear: both;
 }
+
+
+.abouttable{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:flex-start;
+}
+.LeftAbout, .RightAbout{
+    list-style: none;
+    padding: 10px ;
+}
+.LeftAbout li, .RightAbout li{
+    padding: 10px;
+}
+.value{
+    color: #7E7E7E;
+    font-size: 18px;
+}
+.label{
+    font-weight: 500;
+    font-size: 18px;
+}
+
 .btn{
     background-color: #FF305B;
     color: white;
