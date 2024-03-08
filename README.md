@@ -7,5 +7,6 @@ using Html and css
 
 ![image](https://github.com/NourAlaassarr/FokirWebsite/assets/104293377/0edf5acf-4386-4683-aea5-1158e89e2537)
 
-![image](https://github.com/NourAlaassarr/FokirWebsite/assets/104293377/86235606-7f39-49d1-b5d6-0f27fa988584)
+![image](https://github.com/NourAlaassarr/FokirWebsite/assets/104293377/ab27b043-ca48-41d4-9642-efc625a2615a)
+
 
