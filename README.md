@@ -23,12 +23,4 @@ Happy browsing!!!
 
 
 ![image](https://github.com/NourAlaassarr/FokirWebsite/assets/104293377/b0112151-1558-4bca-8820-0c809a177bc3)
-## How to Use:
-<hr>
-1. Clone the repository to your local machine.<br>
-2. Open the `index.html` file in your preferred web browser.<br>
 
-
-Feel free to contribute, report issues, or suggest improvements.
-
-Happy browsing!!!
