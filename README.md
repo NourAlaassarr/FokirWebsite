@@ -1,14 +1,6 @@
 # Fokir-Website using Html and css
 
-## How to Use:
-<hr>
-1. Clone the repository to your local machine.<br>
-2. Open the `index.html` file in your preferred web browser.<br>
 
-
-Feel free to contribute, report issues, or suggest improvements.
-
-Happy browsing!!!
 
 ![image](https://github.com/NourAlaassarr/FokirWebsite/assets/104293377/a42ba8f3-f3d1-45e7-aebc-4b5dfae1a70e)
 ![image](https://github.com/NourAlaassarr/FokirWebsite/assets/104293377/7de3f585-b3a2-485c-a19f-35e90afe4a34)
@@ -23,4 +15,12 @@ Happy browsing!!!
 
 
 ![image](https://github.com/NourAlaassarr/FokirWebsite/assets/104293377/b0112151-1558-4bca-8820-0c809a177bc3)
+## How to Use:
+<hr>
+1. Clone the repository to your local machine.<br>
+2. Open the `index.html` file in your preferred web browser.<br>
 
+
+Feel free to contribute, report issues, or suggest improvements.
+
+Happy browsing!!!
